@@ -1,0 +1,1 @@
+13/03/2016 - Minor changes to style.css. In certain cases the total height of portfolio items was incorrect on mobile causing the footer to appear over the content.
